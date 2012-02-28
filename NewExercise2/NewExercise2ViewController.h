@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface NewExercise2ViewController : UIViewController {
-    
-}
+@interface NewExercise2ViewController : UIViewController 
+
+@property (retain, nonatomic) NSString *leakingString;
 
 @end

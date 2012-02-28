@@ -23,14 +23,14 @@
 		4A75445A14E2F62500BDC3DB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4A75445C14E2F62500BDC3DB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4A75445E14E2F62500BDC3DB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4A75446214E2F62500BDC3DB /* NewExercise2-Info.plist */ = {isa = PBXFileReference; path = "NewExercise2-Info.plist"; sourceTree = "<group>"; };
+		4A75446214E2F62500BDC3DB /* NewExercise2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NewExercise2-Info.plist"; sourceTree = "<group>"; };
 		4A75446414E2F62500BDC3DB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4A75446614E2F62500BDC3DB /* NewExercise2-Prefix.pch */ = {isa = PBXFileReference; path = "NewExercise2-Prefix.pch"; sourceTree = "<group>"; };
+		4A75446614E2F62500BDC3DB /* NewExercise2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NewExercise2-Prefix.pch"; sourceTree = "<group>"; };
 		4A75446714E2F62500BDC3DB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4A75446914E2F62500BDC3DB /* NewExercise2AppDelegate.h */ = {isa = PBXFileReference; path = NewExercise2AppDelegate.h; sourceTree = "<group>"; };
+		4A75446914E2F62500BDC3DB /* NewExercise2AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewExercise2AppDelegate.h; sourceTree = "<group>"; };
 		4A75446A14E2F62500BDC3DB /* NewExercise2AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewExercise2AppDelegate.m; sourceTree = "<group>"; };
 		4A75446D14E2F62500BDC3DB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		4A75446F14E2F62500BDC3DB /* NewExercise2ViewController.h */ = {isa = PBXFileReference; path = NewExercise2ViewController.h; sourceTree = "<group>"; };
+		4A75446F14E2F62500BDC3DB /* NewExercise2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewExercise2ViewController.h; sourceTree = "<group>"; };
 		4A75447014E2F62500BDC3DB /* NewExercise2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewExercise2ViewController.m; sourceTree = "<group>"; };
 		4A75447314E2F62500BDC3DB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/NewExercise2ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
